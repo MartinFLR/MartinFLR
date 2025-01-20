@@ -46,8 +46,8 @@ Soy un **desarrollador full-stack** con experiencia en:
 ---
 
 ## 📈 Mis estadísticas  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)  
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=MartinFLR&show_icons=true&theme=radical)  
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinFLR&layout=compact&theme=radical)
 
 ---
 
